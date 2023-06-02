@@ -7,11 +7,7 @@
 
 <br />
 
-Hello, I'm [Vishruth N](https://github.com/Vishruth-N), an undergraduate student at IIT Bombay. I'm passionate about problem-solving and data analysis, and I love to see how my work can influence decisions and contribute to the success of projects.
-
-In addition to my studies, I've been working on several interesting projects. From modelling cricket matches as a Markov Decision Process to generating maps using deep learning, I'm always looking for challenging problems to solve.
-
-Feel free to take a look at my repositories and don't hesitate to connect or contribute. I'm always open for collaboration and interesting project ideas.
+Hello, I'm [Vishruth N](https://github.com/Vishruth-N), an undergraduate student at IIT Bombay. Feel free to take a look at my repositories and don't hesitate to connect or contribute. I'm always open for collaboration and interesting project ideas.
 
 **Languages and Tools:**  
 
