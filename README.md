@@ -5,7 +5,7 @@
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="35" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hevtyfb5n5huqafmexo6"></code>
+<code><img height="35" src="https://miro.medium.com/v2/resize:fit:1400/0*BKOvjpzn6SPKs81L.pnghttps://miro.medium.com/v2/resize:fit:1400/0*BKOvjpzn6SPKs81L.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="35" src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg"></code>
