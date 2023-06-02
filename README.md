@@ -16,7 +16,7 @@ Hello, I'm [Vishruth N](https://github.com/Vishruth-N), an undergraduate student
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://www.expert.ai/wp-content/uploads/2023/05/AdobeStock_595600270-1024x768-1.jpg"></code>
-<code><img height="20" src="https://images.openai.com/blob/4c5e6634-d1a4-436f-8e49-135e9ed41ef9/graphics-20230518-084948.png?trim=0,0,0,0&width=3200"></code>
+<code><img height="20" src="https://beebom.com/wp-content/uploads/2022/12/cool-things-do-with-chatgpt-featured.jpg?w=750&quality=75"></code>
 <code><img height="20" src="{link_to_midjourney_icon}"></code>
 <code><img height="20" src="{link_to_dall_e_icon}"></code>
 <code><img height="20" src="{link_to_zapier_icon}"></code>
