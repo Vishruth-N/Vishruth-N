@@ -4,7 +4,7 @@
   <img align="left" alt="Vishruth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[![Visit my website](https://img.shields.io/badge/Visit-MyWebsite-blue)](https://vishruth.webflow.io/)
+[![Visit my webpage](https://img.shields.io/badge/Visit-MyWebsite-blue)](https://vishruth.webflow.io/)
 
 
 <br />
