@@ -17,10 +17,9 @@ Hello, I'm [Vishruth N](https://github.com/Vishruth-N), an undergraduate student
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://www.expert.ai/wp-content/uploads/2023/05/AdobeStock_595600270-1024x768-1.jpg"></code>
 <code><img height="20" src="https://beebom.com/wp-content/uploads/2022/12/cool-things-do-with-chatgpt-featured.jpg?w=750&quality=75"></code>
-<code><img height="20" src="{link_to_midjourney_icon}"></code>
-<code><img height="20" src="{link_to_dall_e_icon}"></code>
-<code><img height="20" src="{link_to_zapier_icon}"></code>
-<code><img height="20" src="{link_to_apis_icon}"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png"></code>
+<code><img height="20" src="https://picthrive.com/wp-content/uploads/2021/03/zapier.png"></code>
+<code><img height="20" src="https://appmaster.io/api/_files/PqV7MuNwv89GrZvBd4LNNK/download/"></code>
 
 
 📊 **Recently I've been working on:**
