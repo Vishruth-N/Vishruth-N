@@ -26,6 +26,9 @@
 <code><img height="35" src="https://mma.prnewswire.com/media/1276149/Webflow_Logo.jpg?p=facebook"></code>
 
 📊 **Recently I've been working on:**
+- Intute: An AI Powered Research Assistant
+- Ripik Optimus: A production planner tool that uses Genetic Algorithms for job scheduling and optimization
+- NoteAI: LLM powered tool to generate Markdown Notes from course material
 - Play-cricket-using-MDP: A project where I modelled a cricket match as a Markov Decision Process.
 - Map-Generation-using-Deep-learning: Using deep learning techniques to generate maps.
 
