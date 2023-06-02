@@ -15,6 +15,13 @@ Hello, I'm [Vishruth N](https://github.com/Vishruth-N), an undergraduate student
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://www.expert.ai/wp-content/uploads/2023/05/AdobeStock_595600270-1024x768-1.jpg"></code>
+<code><img height="20" src="{link_to_chatgpt_icon}"></code>
+<code><img height="20" src="{link_to_midjourney_icon}"></code>
+<code><img height="20" src="{link_to_dall_e_icon}"></code>
+<code><img height="20" src="{link_to_zapier_icon}"></code>
+<code><img height="20" src="{link_to_apis_icon}"></code>
+
 
 📊 **Recently I've been working on:**
 - Play-cricket-using-MDP: A project where I modelled a cricket match as a Markov Decision Process.
