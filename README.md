@@ -30,7 +30,7 @@
 - Ripik Optimus: A production planner tool that uses Genetic Algorithms for job scheduling and optimization
 - NoteAI: LLM powered tool to generate Markdown Notes from course material
 - Play-cricket-using-MDP: A project where I modelled a cricket match as a Markov Decision Process.
-- Map-Generation-using-Deep-learning: Using deep learning techniques to generate maps.
+- Map-Generation-using-Deep-learning: Used Generative deep learning techniques to generate maps from satellite images
 
 📈 My GitHub Stats
 
