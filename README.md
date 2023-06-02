@@ -4,7 +4,7 @@
   <img align="left" alt="Vishruth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[![Visit my website]("https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-globe-icon-png-image_3787753.jpg")]("https://vishruth.webflow.io/")
+[![Visit my website]("https://www.citypng.com/public/uploads/preview/transparent-hd-internet-globe-blue-icon-116370350920fdek8wh0l.png?v=2023050814")]("https://vishruth.webflow.io/")
 
 <br />
 
