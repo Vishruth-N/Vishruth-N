@@ -1,14 +1,5 @@
 ### Hello, I'm [Vishruth](https://github.com/Vishruth-N), an undergraduate student at IIT Bombay. Feel free to take a look at my repositories and don't hesitate to connect or contribute. I'm always open for collaboration and interesting project ideas.
 
-<a href="https://www.linkedin.com/in/vishruth-n/">
-  <img align="left" alt="Vishruth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-[![Visit my webpage](https://img.shields.io/badge/Visit-MyWebsite-blue)](https://vishruth.webflow.io/)
-
-
-<br />
-
 
 **Languages and Tools:**  
 
