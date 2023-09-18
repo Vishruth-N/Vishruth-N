@@ -1,4 +1,4 @@
-### Hello, I'm [Vishruth](https://github.com/Vishruth-N), an undergraduate student at IIT Bombay. Feel free to take a look at my repositories and don't hesitate to connect or contribute. I'm always open for collaboration and interesting project ideas.
+### Hello, I'm [Vishruth](https://github.com/Vishruth-N), an undergraduate student at IIT Bombay. Feel free to connect or contribute. I'm always open to collaboration and interesting project ideas.
 
 
 **Languages and Tools:**  
