@@ -23,8 +23,3 @@
 - NoteAI: LLM powered tool to generate Markdown Notes from course material
 - Play-cricket-using-MDP: A project where I modelled a cricket match as a Markov Decision Process.
 - Map-Generation-using-Deep-learning: Used Generative deep learning techniques to generate maps from satellite images
-
-My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vishruth-N&show_icons=true&theme=gotham" alt="Vishruth-N" />
-
